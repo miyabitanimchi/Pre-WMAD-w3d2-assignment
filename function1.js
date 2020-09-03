@@ -6,6 +6,7 @@ const logLength = function (example) {
     for (i = 0; i < example.length; i++) {
 
     }
+    
 };
 
 logLength(example);
